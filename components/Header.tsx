@@ -6,7 +6,7 @@ export default function Header() {
       <div className="bg-white/90 backdrop-blur-md px-4 py-2.5 rounded-full shadow-sm flex items-center justify-between w-full max-w-300 border border-white/50">
         
        <div className="flex items-center">
-            <img src="/logo.png" alt="Steppe Coffee Logo" className="h-8" />
+            <img src="/logomain.png" alt="Steppe Coffee Logo" className="h-8" />
         </div>
 
         <div className="hidden md:flex items-center gap-8 text-xs font-semibold uppercase tracking-wide">

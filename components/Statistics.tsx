@@ -45,7 +45,7 @@ export default function Statistics() {
                     </div>
                     <div className="h-fit">
                     <div className='min-w-full'>
-                        <img src="/prosmotr.png" alt="Statistic 3" className="w-full rounded-xl object-cover" />
+                        <img src="/pros.png" alt="Statistic 3" className="w-full rounded-xl object-cover" />
                     </div>
                 </div>
                 </div>
@@ -62,7 +62,7 @@ export default function Statistics() {
                         <div className='h-min '>
                             <h1 className='text-5xl font-light py-4'>в октябре</h1>
                             <p className="text-sm md:text-base leading-relaxed text-gray-800">
-                            Steppe Coffee – городской кофейный проект с сильным комьюнити-потенциалом и фокусом на живое общение. В рамках первого этапа мы пересобрали визуальный язык бренда, усилили характер и атмосферу Steppe Coffee, 
+                                Steppe Coffee – городской кофейный проект с сильным комьюнити-потенциалом и фокусом на живое общение. В рамках первого этапа мы пересобрали визуальный язык бренда, усилили характер и атмосферу Steppe Coffee, 
                 а также заложили единую логику для дальнейшего развития контента и коммуникаций. Это позволило бренду выглядеть цельно и узнаваемо во всех точках контакта с аудиторией.
                             </p>
                         </div>
